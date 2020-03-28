@@ -1,0 +1,27 @@
+.text-react {
+  color: #61DAFB !important;
+}
+
+.custom-nav-item:hover {
+  color: #61DAFB !important;
+  transition: 0.5s;
+}
+
+.btn-react {
+  background-color: #61DAFB !important;
+}
+
+.custom-btn:hover {
+  background-color: white !important;
+  transition: 0.5s;
+}
+
+.custom-btn-text:hover {
+  color: white !important;
+  transition: 1s;
+}
+
+.container-fluid {
+  background-image: url(./images/react-background.jpg);
+  background-size: cover;
+}
